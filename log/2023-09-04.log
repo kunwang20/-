@@ -1,0 +1,42 @@
+[2023-09-04 13:23:28,707][log_util.py 41][DEBUG]: debug
+[2023-09-04 13:23:28,707][log_util.py 42][INFO]: info
+[2023-09-04 13:36:39,949][test_Login.py 9][INFO]: 开始执行用例
+[2023-09-04 13:38:43,260][test_Login.py 9][INFO]: 开始执行用例
+[2023-09-04 14:00:42,833][test_Login.py 9][INFO]: 开始执行用例
+[2023-09-04 14:24:45,462][test_Login.py 9][INFO]: 开始执行用例
+[2023-09-04 14:24:49,381][test_Login.py 9][INFO]: 开始执行用例
+[2023-09-04 14:30:04,201][conftest.py 8][INFO]: 开始执行用例
+[2023-09-04 14:30:04,202][test_Login.py 9][INFO]: 开始执行用例
+[2023-09-04 14:30:04,265][conftest.py 10][INFO]: 用例执行完毕
+[2023-09-04 14:56:06,304][conftest.py 8][INFO]: 开始执行用例
+[2023-09-04 14:56:06,314][conftest.py 10][INFO]: 用例执行完毕
+[2023-09-04 15:19:24,248][conftest.py 8][INFO]: 开始执行用例
+[2023-09-04 15:19:24,315][conftest.py 10][INFO]: 用例执行完毕
+[2023-09-04 15:27:21,983][conftest.py 8][INFO]: 开始执行用例
+[2023-09-04 15:27:22,050][conftest.py 10][INFO]: 用例执行完毕
+[2023-09-04 15:27:50,348][conftest.py 8][INFO]: 开始执行用例
+[2023-09-04 15:27:50,419][conftest.py 10][INFO]: 用例执行完毕
+[2023-09-04 15:43:04,590][conftest.py 8][INFO]: 开始执行用例
+[2023-09-04 15:43:04,654][conftest.py 10][INFO]: 用例执行完毕
+[2023-09-04 15:55:59,428][conftest.py 8][INFO]: 开始执行用例
+[2023-09-04 15:55:59,494][conftest.py 10][INFO]: 用例执行完毕
+[2023-09-04 16:01:57,528][conftest.py 8][INFO]: 开始执行用例
+[2023-09-04 16:01:57,593][conftest.py 10][INFO]: 用例执行完毕
+[2023-09-04 16:25:06,695][conftest.py 8][INFO]: 开始执行用例
+[2023-09-04 16:25:06,759][conftest.py 10][INFO]: 用例执行完毕
+[2023-09-04 16:25:18,133][conftest.py 8][INFO]: 开始执行用例
+[2023-09-04 16:25:18,223][conftest.py 10][INFO]: 用例执行完毕
+[2023-09-04 16:25:30,024][conftest.py 8][INFO]: 开始执行用例
+[2023-09-04 16:25:30,147][conftest.py 10][INFO]: 用例执行完毕
+[2023-09-04 16:26:17,794][conftest.py 8][INFO]: 开始执行用例
+[2023-09-04 16:26:17,861][conftest.py 10][INFO]: 用例执行完毕
+[2023-09-04 16:27:32,490][conftest.py 8][INFO]: 开始执行用例
+[2023-09-04 16:27:32,554][conftest.py 10][INFO]: 用例执行完毕
+[2023-09-04 16:31:11,153][conftest.py 8][INFO]: 开始执行用例
+[2023-09-04 16:31:11,220][conftest.py 10][INFO]: 用例执行完毕
+[2023-09-04 16:57:45,569][conftest.py 8][INFO]: 开始执行用例
+[2023-09-04 16:57:45,638][conftest.py 10][INFO]: 用例执行完毕
+[2023-09-04 17:24:11,080][mysql_uitl.py 29][INFO]: 执行SQL:SELECT * FROM `dl`.`dl_operate_area` WHERE `is_del` LIKE '%0%' LIMIT 0,1000
+[2023-09-04 17:24:50,777][mysql_uitl.py 29][INFO]: 执行SQL:SELECT * FROM `dl`.`dl_operate_area` WHERE `is_del` LIKE '%0%' LIMIT 0,1000
+[2023-09-04 17:25:50,696][mysql_uitl.py 29][INFO]: 执行SQL:SELECT * FROM `dl`.`dl_operate_area` WHERE `is_del` LIKE '%0%' LIMIT 0,1000
+[2023-09-04 17:26:05,356][mysql_uitl.py 29][INFO]: 执行SQL:SELECT * FROM `dl`.`dl_operate_area` WHERE `is_del` LIKE '%0%' LIMIT 0,1000

@@ -1,0 +1,10 @@
+json:
+  type: SYS_USER
+  username: test
+  password: 123456
+
+headers: {User-Agent: Apifox/1.0.0 (https://apifox.com), Content-Type: application/json, Accept: "*/*", Host: api.520dl.com, Connection: keep-alive}
+
+
+
+
